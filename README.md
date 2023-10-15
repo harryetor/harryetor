@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @harryetor
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-harryetor/harryetor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I am Harry Ashimatey. 
+I am interested in Structural Health Monitoring and Earthquake Engineering.
+I am interested in application of Machine Learning (ML) Algorithms in Structural Engineering.
+Reach me at ashimateyharry@gmail.com
+https://www.linkedin.com/in/harry-ashimatey-0264901b4/
